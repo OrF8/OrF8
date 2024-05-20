@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OrF8
-- 👀 I’m interested in Computer Science an Data Science
+- 👀 I’m interested in Computer Science and Data Science
 - 🌱 I’m currently learning for a B.Sc in Computr Science
 - 📫 How to reach me: or.forshmit@mail.huji.ac.il
 
