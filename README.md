@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>💬 Ask me about My favorite movie. You can also ask me about my interest in Computer Science.<br>⚡ I volunteer to teach high school students computer science, and I love inspiring the next generation of programmers!
+🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>💬 Ask me about My favorite movie. You can also ask me about my interest in Computer Science.<br>⚡ I volunteer to teach high school students from the periphery computer science, and I love inspiring the next generation of programmers!
 
 
 ## 🌐 Socials:
