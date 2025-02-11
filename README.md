@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>💬 Ask me about my interests in Computer Science, and what I would like to learn.<br>⚡ I volunteer to teach peripheral high school students Computer Science for their 5 points Bagrut Exam, and I love inspiring the next generation of programmers!
+🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>⚡ I volunteer to teach peripheral high school students Computer Science for their 5 points Bagrut Exam, and I love inspiring the next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;generation of programmers!
 
 
 ## 🌐 Socials:
@@ -7,7 +7,7 @@
 - 📫 How to reach me: or.forshmit@mail.huji.ac.il
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OrF8&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=dark&hide_border=true)<br/>
