@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>⚡ I volunteer to teach peripheral high school students Computer Science for their 5 points Bagrut Exam, and I love inspiring the next &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;generation of programmers!
+🔭 I’m currently working toward graduating with a B.Sc in Computer Science from HUJI.<br>🌱 I’m currently learning Object Oriented Programming and Machine Learning.<br>⚡ I volunteer to teach peripheral high school students Computer Science for their 5 points Bagrut Exam, and I love inspiring the next generation of programmers!
 
 
 ## 🌐 Socials:
