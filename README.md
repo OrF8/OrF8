@@ -20,6 +20,10 @@ Driven by curiosity, powered by logic.
 ## 📊 Stats:
 ![](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&&layout=donut)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=darcula&hide_border=true)
+
+![](https://github-profile-trophy.vercel.app/?username=OrF8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=-?)
+
 <!--- ![OF8's GitHub stats](https://github-readme-stats-orf8s-projects.vercel.app/api?username=OrF8&show_icons=true&theme=moltack&hide_border=true&count_private=true) --->
 
 
