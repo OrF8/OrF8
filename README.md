@@ -10,8 +10,8 @@ Driven by curiosity, powered by logic.
 - 🌱 Always learning, always exploring.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/or_forshmit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/or-forshmit)
-<br>📫 How to reach me: or.forshmit@mail.huji.ac.il
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/or_forshmit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/or-forshmit)\
+📫 How to reach me: or.forshmit@mail.huji.ac.il
 
 ## 🛠️ Languages & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +20,7 @@ Driven by curiosity, powered by logic.
 ## 📊 Stats:
 ![](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&&layout=donut)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=darcula&hide_border=true)
+<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=darcula&hide_border=true) --->
 
 ![](https://github-profile-trophy.vercel.app/?username=OrF8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=-?)
 
