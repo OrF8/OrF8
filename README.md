@@ -3,17 +3,11 @@
 
 *この次はこの次。今は今*
 
-🎓 B.Sc. Computer Science @ HUJI
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vk1wm4thqrv953vu5lmk1knq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false" alt="Spotify Profile" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=OrF8&color=24292f&style=for-the-badge" alt="Profile Views" />
-</p>
+<section style="width: 100%; display: flex;">
+  🎓 B.Sc. Computer Science @ HUJI<br><br>
+  <img align="left" src="https://komarev.com/ghpvc/?username=OrF8&color=24292f&style=for-the-badge" alt="Profile Views" />
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=vk1wm4thqrv953vu5lmk1knq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false" alt="Spotify Profile" />
+</section><br><br>
 
 ## About Me
 I am a Computer Science student at HUJI with a strong interest in cryptography, machine learning, systems programming, software engineering, and computational biology.
