@@ -3,7 +3,14 @@
 
 *この次はこの次。今は今*
 
-🎓 B.Sc. Computer Science @ HUJI  
+🎓 B.Sc. Computer Science @ HUJI
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vk1wm4thqrv953vu5lmk1knq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=OrF8&color=24292f&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -66,12 +73,6 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=darcula&hide_border=true&background=00000000)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OrF8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=-?)
-
-## Currently Listening To
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vk1wm4thqrv953vu5lmk1knq4&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=true&profanity=false&bar_color=ff7a8a&bar_color_cover=true&mode=dark" alt="Spotify Profile" />
-</p>
-
 
 <!---
 OrF8/OrF8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
