@@ -1,28 +1,50 @@
-# Hi there, I'm OrF8 👋
-🎓 **Computer Science Student at HUJI**.<br>
+# Hi there, I'm Or Forshmit 👋
+> この次はこの次。今は今
+
+🎓 **B.Sc. Computer Science student at The Hebrew University of Jerusalem**
 Driven by curiosity, powered by logic.
 
+## About Me
+I am a Computer Science student at HUJI with a strong interest in cryptography, machine learning, systems programming, software engineering, and computational biology.
 
-## 👨‍💻 About Me
-- 🧠 Passionate about solving complex problems, building efficient systems, and empowering others through education.
-- 💻 I love coding in **Python**, **Java**, **C**, and **C++**.
-- 🙌 I volunteer as a CS teaching assistant, helping high school students fall in love with technology.
-- 🌱 Always learning, always exploring.
+Outside of my own studies and projects, I volunteer as a Computer Science tutor for high-school students, helping them strengthen their programming skills and gain confidence with technology.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/or-forshmit)\
-📫 How to reach me: or.forshmit@mail.huji.ac.il
+## What I Work On
+- **Systems programming** – user-level threads, MapReduce, C/C++, Linux, and operating-system concepts
+- **Software engineering** – Java applications, object-oriented design, testing, documentation, and maintainable code
+- **Full-stack development** – React, Firebase, collaborative web apps, authentication, and cloud-based workflows
+- **Data analysis & machine learning** – Python, pandas, visualization, pattern discovery, and practical ML workflows
+- **Computational biology** – graph-based analysis, sequence similarity, biological data pipelines, and algorithmic research
+- **Cryptography & security** – theoretical foundations, secure systems, and privacy-aware software design
 
-## 🛠️ Languages & Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Featured Projects
+<p align="center">
+  <a href="https://github.com/OrF8/uthreads"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=OrF8&repo=uthreads&theme=darcula&hide_border=true" alt="uthreads" /></a>
+  <a href="https://github.com/OrF8/MapReduceFramework"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=OrF8&repo=MapReduceFramework&theme=darcula&hide_border=true" alt="MapReduceFramework" /></a>
+  <a href="https://github.com/OrF8/ExpenseManagement"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=OrF8&repo=ExpenseManagement&theme=darcula&hide_border=true" alt="ExpenseManagement" /></a>
+  <a href="https://github.com/noam-kimhi/Who-Stole-My-Genes"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=noam-kimhi&repo=Who-Stole-My-Genes&theme=darcula&hide_border=true" alt="Who Stole My Genes?" /></a>
+  <a href="https://github.com/OrF8/Reel-Patterns"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=OrF8&repo=Reel-Patterns&theme=darcula&hide_border=true" alt="Reel-Patterns" /></a>
+  <a href="https://github.com/OrF8/Java-ASCII-Art"><img src="https://github-readme-stats-orf8s-projects.vercel.app/api/pin/?username=OrF8&repo=Java-ASCII-Art&theme=darcula&hide_border=true" alt="Java-ASCII-Art" /></a>
+</p>
 
-## 📊 Stats:
-![](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&layout=donut&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris)
+## Tech Stack
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=OrF8&theme=darcula&hide_border=true)
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Or%20Forshmit-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/or-forshmit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-OF8-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/OF8/)
+📫 **Email:** [or.forshmit@mail.huji.ac.il](mailto:or.forshmit@mail.huji.ac.il)
 
-![](https://github-profile-trophy.vercel.app/?username=OrF8&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=-?)
+## GitHub Stats
+![Top Languages](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8\&theme=darcula\&hide_border=true\&include_all_commits=true\&count_private=true\&langs_count=8\&layout=donut\&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrF8\&theme=darcula\&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=OrF8\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=4\&rank=-?)
 
 <!---
 OrF8/OrF8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
