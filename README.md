@@ -5,7 +5,7 @@
 
 <section style="width: 100%; display: flex;">
   🎓 B.Sc. Computer Science @ HUJI<br><br>
-  <img align="left" src="https://komarev.com/ghpvc/?username=OrF8&color=24292f&style=for-the-badge" alt="Profile Views" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=OrF8&color=6f42c1&style=for-the-badge" alt="Profile Views" />
   <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=vk1wm4thqrv953vu5lmk1knq4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=9900ff&bar_color_cover=false" alt="Spotify Profile" />
 </section><br><br>
 
