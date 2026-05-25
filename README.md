@@ -60,7 +60,7 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or.forshmit@mail.huji.ac.il)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&langs_count=8&layout=donut&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris,DynamicsProject)
+![Top Languages](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&langs_count=8&layout=donut&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris,DynamicsProject,Dynamics-Ex-3)
 
 ![Stats](https://github-readme-stats-orf8s-projects.vercel.app/api/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&show_icons=true)
 
