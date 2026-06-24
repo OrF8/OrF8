@@ -19,8 +19,7 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 - **Data analysis & machine learning** – Python, pandas, visualization, pattern discovery, and practical ML workflows
 - **Systems programming** – user-level threads, MapReduce, C/C++, Linux, and operating-system concepts
 - **Software engineering** – Java applications, object-oriented design, testing, documentation, and maintainable code
-- **Computational biology** – graph-based analysis, sequence similarity, biological data pipelines, and algorithmic research
-- **Full-stack development** – React, Firebase, collaborative web apps, authentication, and cloud-based workflows
+- **Computational biology** – Graph-based analysis, sequence similarity, biological data pipelines, and algorithmic research
 
 ## Tech Stack
 ### Languages
@@ -28,8 +27,6 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,11 +44,7 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Connect With Me
@@ -60,7 +53,7 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or.forshmit@mail.huji.ac.il)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&langs_count=8&layout=donut&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris,StatOverflow,Dynamics-Ex-3,Receipts,Dynamicx-Ex-4)
+![Top Languages](https://github-readme-stats-orf8s-projects.vercel.app/api/top-langs/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&langs_count=8&layout=donut&exclude_repo=Dynamics-Ex-1,Dynamics-Ex-2,nand2tetris,StatOverflow,Dynamics-Ex-3,Receipts,Dynamicx-Ex-4,ExpenseManagement)
 
 ![Stats](https://github-readme-stats-orf8s-projects.vercel.app/api/?username=OrF8&theme=darcula&hide_border=true&bg_color=00000000&show_icons=true)
 
