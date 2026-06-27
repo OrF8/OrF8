@@ -50,7 +50,7 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 ### Computational Biology & Data
 ![PyDESeq2](https://img.shields.io/badge/PyDESeq2-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![bioframe](https://img.shields.io/badge/bioframe-3776AB?style=for-the-badge&logo=python&logoColor=white)
-`snATAC-seq` · `GTEx` · `Activity-by-Contact / ABC` · `GRCh38`
+ · `snATAC-seq` · `GTEx` · `Activity-by-Contact / ABC` · `GRCh38`
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Or%20Forshmit-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/or-forshmit)
