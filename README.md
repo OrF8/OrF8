@@ -10,16 +10,16 @@
 </section><br><br><br><br><br>
 
 ## About Me
-I am a Computer Science student at HUJI with a strong interest in cryptography, machine learning, systems programming, software engineering, and computational biology.
+I am a Computer Science student at Hebrew University of Jerusalem interested in cryptography and security, computational biology and genomics, data analysis and machine learning, systems programming, and software engineering.
 
 Outside of my own studies and projects, I volunteer as a Computer Science tutor for high-school students, helping them strengthen their programming skills and gain confidence with technology.
 
 ## What I Work On
 - **Cryptography & security** – theoretical foundations, secure systems, and privacy-aware software design
+- **Computational biology & genomics** – graph-based analysis, sequence similarity, chromatin-accessibility analysis, single-nucleus sequencing data, genomic interval processing, differential accessibility, eQTL integration, peak-to-gene mapping, and reproducible biological data pipelines
 - **Data analysis & machine learning** – Python, pandas, visualization, pattern discovery, and practical ML workflows
 - **Systems programming** – user-level threads, MapReduce, C/C++, Linux, and operating-system concepts
 - **Software engineering** – Java applications, object-oriented design, testing, documentation, and maintainable code
-- **Computational biology** – Graph-based analysis, sequence similarity, biological data pipelines, and algorithmic research
 
 ## Tech Stack
 ### Languages
@@ -46,6 +46,11 @@ Outside of my own studies and projects, I volunteer as a Computer Science tutor 
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Computational Biology & Data
+![PyDESeq2](https://img.shields.io/badge/PyDESeq2-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![bioframe](https://img.shields.io/badge/bioframe-3776AB?style=for-the-badge&logo=python&logoColor=white)
+`snATAC-seq` · `GTEx` · `Activity-by-Contact / ABC` · `GRCh38`
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Or%20Forshmit-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/or-forshmit)
